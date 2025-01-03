@@ -1,2 +1,3 @@
-# VibNet
-Implementation of VibNet: Vibration-Boosted Needle Detection in Ultrasound Images
+# VibNet: Vibration-Boosted Needle Detection in Ultrasound Images
+
+The code and data will be released soon!
